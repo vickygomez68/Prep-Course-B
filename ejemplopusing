@@ -1,0 +1,8 @@
+var primeraPalabra = "hola"
+var segundaPalabra = "mundo"
+var resultado = primeraPalabra + " " + segundaPalabra + "!" ;
+console.log(resultado);
+
+
+
+
